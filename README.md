@@ -36,6 +36,8 @@ These are not implementations as such, but contain useful pointers. Because revi
 
 **(2019-12) Deep learning of pharmacogenomics resources: moving towards precision oncology** [[Briefings in Bioinformatics](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz144/5669856#186956080)]
 
+pharmacogenomics, is a key area in the development of precision oncology. Deep learning (DL) methodology has emerged as a powerful technique to characterize and learn from rapidly accumulating pharmacogenomics data.
+
 **(2019-04) Deep learning: new computational modelling techniques for genomics** [[Nature Reviews Genetics paper](https://www.nature.com/articles/s41576-019-0122-6)]
 
 This is a very nice conceptual review of how deep learning can be used in genomics. It explains how convolutional networks, recurrent networks, graph convolutional networks, autoencoders and GANs work. It also explains useful concepts like multi-modal learning, transfer learning, and model explainability.
